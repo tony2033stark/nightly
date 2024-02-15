@@ -1,0 +1,761 @@
+[Adblock Plus 2.0]
+! Version: 3.3.2
+! Title: Adblock Filter List
+
+adheart.me##.sc-7388674b-4.iBpwin.ml-auto
+adheart.me###m_user_profile_tab_3
+adheart.me###m_user_profile_tab_3 > .table-striped.table > thead > tr > th
+adheart.me###m_user_profile_tab_3 > form > .form-group
+adheart.me##.btn-block.btn-outline-primary.btn
+adheart.me##.btn-danger.btn-sm.btn
+adheart.me##.btn-warning.btn-font-sm.btn-upper.btn-bold.btn-custom.btn
+adheart.me##.buy-button > .btn-primary.btn
+adheart.me##.dropdown-toggle.btn-soft-primary.btn-icon.btn
+adheart.me##.kt-callout__title
+adheart.me##.kt-font-dark.kt-callout__desc
+adheart.me##.kt-font-dark.nav-link
+adheart.me##.kt-grid--ver-desktop.kt-grid--desktop.kt-grid.kt-grid__item.kt-footer
+adheart.me##.kt-header__topbar-item--langs.kt-header__topbar-item > .kt-header__topbar-wrapper
+adheart.me##.kt-widget__head
+adheart.me##.kt-widget__section
+adheart.me##.login-toggle.pt-2.pr-4.pl-4.col-md-12.col-lg-12
+adheart.me##.no-gutters.align-items-center.row > .text-center.mb-0.col-lg-12
+adheart.me##.pt-0.pb-4.pr-4.pl-4.login-form > .row > .text-center.mb-0.col-lg-12
+adheart.me##div.col-xl-6.col-lg-6.col-md-6 > form > .btn-warning.btn
+adheart.me##div.col-xl-6.col-lg-6.col-md-6 > form > .form-group
+adheart.me##div.col-xl-6.col-lg-6.col-md-6 > label
+adheart.me##div.kt-header__topbar-item--user.kt-header__topbar-item > .kt-header__topbar-wrapper
+adheart.me##div.kt-header__topbar-item--user.kt-header__topbar-item:nth-of-type(1)
+adheart.me##div.kt-header__topbar-item--user.kt-header__topbar-item:nth-of-type(4)
+adheart.me##div.kt-widget__contact:nth-of-type(1)
+adheart.me##div.kt-widget__contact:nth-of-type(2)
+adheart.me##div.login-toggle.col-md-12.col-lg-12 > .pt-0.pb-4.pr-4.pl-4.login-form > .row > .text-center.col-12 > .mt-3.mb-0
+adheart.me##div.login-toggle.col-md-12.col-lg-12 > .pt-0.pb-4.pr-4.pl-4.login-form > .row > div.col-lg-12 > .form-group
+adheart.me##div.pb-0.justify-content-center.kt-widget__stats:nth-of-type(1)
+adheart.me##div.pb-0.justify-content-center.kt-widget__stats:nth-of-type(2)
+adheart.me##div.pb-3.col-sm-6.col-md-6.col-lg-6.col-xl-3:nth-of-type(1)
+adheart.me##div.pb-3.col-sm-6.col-md-6.col-lg-6.col-xl-3:nth-of-type(2)
+adheart.me##div.pb-3.col-sm-6.col-md-6.col-lg-6.col-xl-3:nth-of-type(3)
+adheart.me##div.pb-3.col-sm-6.col-md-6.col-lg-6.col-xl-3:nth-of-type(4)
+adheart.me##div.pt-2.pr-4.pl-4.col-md-12.col-lg-12:nth-of-type(1)
+adheart.me##hr
+! 2023-07-10 https://adheart.me
+! Новая плашка при старте с аккаунтом и данными сверху справа
+adheart.me##.dfuaex.sc-a4f3529e-2
+adheart.me##.ml-auto.wdDcv.sc-12b5ef51-4
+! 2023-11-17 https://adheart.me
+adheart.me###launcher
+adheart.me##.gWEGbZ.sc-21eb55bf-12 > div > svg
+adheart.me##.ml-auto.iiZZBs.sc-21eb55bf-4
+adheart.me##li.kt-menu__item--rel.kt-menu__item > .btn
+adheart.me##.ml-auto.cwihTx.sc-4e36e14a-4
+
+
+
+
+dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:first-child
+dashboard.supa.ru###page > div.page__main:nth-child(2) > div.container > div.main > div.view > div.view__main:last-child > div.view__content:last-child > div.infinite-scroll-component__outerdiv > div.infinite-scroll-component.videos > div.videos__video-list > div.video-list > div.video-list__video > div.video > div.video__main:first-child > div.video__meta:last-child > div.video__actions.dropdown:last-child > div.dropdown-menu:last-child > button.dropdown-item:nth-child(4)
+dashboard.supa.ru##.HW_visible.HW_badge_cont
+dashboard.supa.ru##.auth__footer
+dashboard.supa.ru##.auth__header
+dashboard.supa.ru##.auth__social-auth
+dashboard.supa.ru##.billing
+dashboard.supa.ru##.error
+dashboard.supa.ru##.footer
+dashboard.supa.ru##.is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .dropdown.folder__actions > .dropdown-toggle > .fa-w-16.fa-cog.svg-inline--fa
+dashboard.supa.ru##.nav__icon
+dashboard.supa.ru##.personal-discount
+dashboard.supa.ru##.ps.scrollbar-container > .video-folders > .is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .folder__drag
+dashboard.supa.ru##.show.alert-dismissible.alert-success.alert.personal-discount__alert.fade
+dashboard.supa.ru##.sidebar-nav__item_create-folder.sidebar-nav__item
+dashboard.supa.ru##.video-folders_sub.video-folders > .is-opened.video-folders__folder > .video-folders_sub.video-folders > li.video-folders__folder > .folder > div > .folder__drag
+dashboard.supa.ru##div.profile__content
+dashboard.supa.ru##h2.profile__title
+dashboard.supa.ru###page > div.page__main:first-child > div.container > div.main > div.auth.auth_sign-in > div.row.justify-content-center > div.col-md-4 > div.auth__main:nth-child(2) > div.auth__form:first-child > form.form > input.form-control:nth-child(2)
+dashboard.supa.ru##li.nav__item:nth-of-type(3)
+supa.ru##.primary.small-size.button
+
+
+
+
+
+elements.envato.com##.IApy4UwJ
+elements.envato.com##.M_ciPgaF
+elements.envato.com##.SQwnu9It
+elements.envato.com##._uPYWdBx.R0yMSq_u
+elements.envato.com##.ddGMEOpL
+elements.envato.com##.ex7gyfzY
+elements.envato.com##.hHFF_PPi
+elements.envato.com##.UHoyWaA1.username.huPvc6Z1
+elements.envato.com##.UHoyWaA1.password.huPvc6Z1
+elements.envato.com##.kulw0CQf .pnaMrbkn.EjgazRe_ > .W8LBOjqa
+elements.envato.com##.m79w7Rxn
+elements.envato.com##.mW_Zeem8
+elements.envato.com##.qqLmI2XZ
+elements.envato.com##.rMNRgR0S.mW_Zeem8
+elements.envato.com##.xMdHBep0
+elements.envato.com##.D8Ruvw9s
+elements.envato.com##.i6e_BsOx
+elements.envato.com##li.CwB8BmDC > .R0yMSq_u
+elements.envato.com##a.hTPaPH.eEdhPi.bQLgCw.sc-cUEOzv.sc-cCjUiG.sc-gYbzsP.bGsCqg.sc-kMjNwy
+elements.envato.com##.bfDBdm.sc-jcMfQk
+elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(2)
+elements.envato.com##div.ejmSgi.jLrBOP.sc-fEXmlR.sc-ftTHYK:nth-of-type(1)
+elements.envato.com##.gNEXao.fFXeDi.sc-eJDSGI.sc-dkrFOg.fLJxAw.sc-bcXHqe
+elements.envato.com##.bzNofK.fFXeDi.sc-khsqcC.sc-dkrFOg.fLJxAw.sc-bcXHqe
+account.elements.envato.com##.CEHN3Umw
+account.elements.envato.com##.gNwtRiju
+elements.envato.com##.H5vx7gEB.Y0Fl413W
+! Envato снова
+! 2023-07-10 https://elements.envato.com
+elements.envato.com##.jmhFZQ.cPdjwb.sc-bCDidY.sc-fsQiph > .cbKsLB.sc-fsQiph
+elements.envato.com##div.dkGsnt.cbKsLB.sc-fGFwAa.sc-fsQiph:nth-of-type(2)
+elements.envato.com##.cLqJrz.jXjeVX.sc-eKYjST.sc-dmqHEX.gzPyyM.sc-beqWaB
+elements.envato.com##.label-container.ACMIj.jXjeVX.sc-kgKVFY.sc-dmqHEX.gzPyyM.sc-beqWaB
+elements.envato.com##.khsnpo.sc-jegxcv
+! 2023-11-17 https://account.elements.envato.com
+account.elements.envato.com##.ADrhEmMX
+! 2023-11-17 https://elements.envato.com
+elements.envato.com##.ledPWQ.cGBhOx.sc-bbSZdi.sc-imWYAI > .cIMMqX.sc-imWYAI
+elements.envato.com##.dhvqwu.sc-jxOSlx
+elements.envato.com##div.iZqZog.cIMMqX.sc-fPXMVe.sc-imWYAI:nth-of-type(2)
+elements.envato.com##.sc-bbSZdi
+elements.envato.com##input[type="password"]
+elements.envato.com##a[data-testid="forgotUsernameLink"]
+
+
+
+id.freepikcompany.com###auth-login-form > div > .grecaptcha-badge
+id.freepikcompany.com###auth-login-form > div.group
+id.freepikcompany.com###tab-login > .auth__social
+id.freepikcompany.com##.content > .row--vertical-center.row--horizontal-center.row.auth__sessions__actions
+id.freepikcompany.com##.email
+id.freepikcompany.com##.mg-bottom-lv4.alignc.font-xl.first
+id.freepikcompany.com##.pd-x-none.pd-lv2.mg-none.row--space-between.row--vertical-center.row
+id.freepikcompany.com##.tabs__navigation
+id.freepikcompany.com##.unlink.font-xs.link.auth__session--delete
+id.freepikcompany.com##header
+id.freepikcompany.com###sessions > .auth__terms > p
+id.freepikcompany.com###sessions > .auth__head > .mg-bottom-lv2
+id.freepikcompany.com##.form-item--password.form-item > label
+id.freepikcompany.com##.avatar-wrapper > p
+id.freepikcompany.com##.have-account > p
+id.freepikcompany.com##.not-you > p
+id.freepikcompany.com##.not-remember-password
+id.freepikcompany.com###google-sign-button
+id.freepikcompany.com###auth-login-form > div > .grecaptcha-badge
+id.freepikcompany.com###auth-login-form > div.group
+id.freepikcompany.com###tab-login > .auth__social
+id.freepikcompany.com##.content > .row--vertical-center.row--horizontal-center.row.auth__sessions__actions
+id.freepikcompany.com##.email
+id.freepikcompany.com##.mg-bottom-lv4.alignc.font-xl.first
+id.freepikcompany.com##.pd-x-none.pd-lv2.mg-none.row--space-between.row--vertical-center.row
+id.freepikcompany.com##.tabs__navigation
+id.freepikcompany.com##.unlink.font-xs.link.auth__session--delete
+id.freepikcompany.com##header
+id.freepikcompany.com###sessions > .auth__terms > p
+id.freepikcompany.com###sessions > .auth__head > .mg-bottom-lv2
+id.freepikcompany.com##.form-item--password.form-item > label
+id.freepikcompany.com##.avatar-wrapper > p
+id.freepikcompany.com##.have-account > p
+id.freepikcompany.com##.not-you > p
+id.freepikcompany.com##.not-remember-password
+ru.freepik.com###footer
+ru.freepik.com###go-premium-menu-link
+ru.freepik.com###payment_method_box
+ru.freepik.com###payment_method_box_title
+ru.freepik.com##.banner_1.subscription_banner
+ru.freepik.com##.banner_ref_overlay
+ru.freepik.com##.d-flex.banner_2.subscription_banner
+ru.freepik.com##.device-manager--actions > .container
+ru.freepik.com##.device-manager--list > .container
+ru.freepik.com##.device-manager--top > .container
+ru.freepik.com##.gr-auth__connected
+ru.freepik.com##.link-contributor
+ru.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
+ru.freepik.com##.price_before.banner-upgrade.banner-campaign
+ru.freepik.com##.sticky.sidebar
+ru.freepik.com##.userProfile.boxProfile
+ru.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
+ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
+ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+www.freepik.com###footer
+www.freepik.com###go-premium-menu-link
+www.freepik.com###payment_method_box
+www.freepik.com###payment_method_box_title
+www.freepik.com##.banner_1.subscription_banner
+www.freepik.com##.banner_ref_overlay
+www.freepik.com##.d-flex.banner_2.subscription_banner
+www.freepik.com##.device-manager--actions > .container
+www.freepik.com##.device-manager--list > .container
+www.freepik.com##.device-manager--top > .container
+www.freepik.com##.gr-auth__connected
+www.freepik.com##.link-contributor
+www.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
+www.freepik.com##.price_before.banner-upgrade.banner-campaign
+www.freepik.com##.sticky.sidebar
+www.freepik.com##.userProfile.boxProfile
+www.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
+www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
+www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+ru.freepik.com###footer
+ru.freepik.com###go-premium-menu-link
+ru.freepik.com###payment_method_box
+ru.freepik.com###payment_method_box_title
+ru.freepik.com##.banner_1.subscription_banner
+ru.freepik.com##.banner_ref_overlay
+ru.freepik.com##.d-flex.banner_2.subscription_banner
+ru.freepik.com##.device-manager--actions > .container
+ru.freepik.com##.device-manager--list > .container
+ru.freepik.com##.device-manager--top > .container
+ru.freepik.com##.gr-auth__connected
+ru.freepik.com##.link-contributor
+ru.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
+ru.freepik.com##.price_before.banner-upgrade.banner-campaign
+ru.freepik.com##.sticky.sidebar
+ru.freepik.com##.userProfile.boxProfile
+ru.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
+ru.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
+ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
+ru.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+www.freepik.com###footer
+www.freepik.com###go-premium-menu-link
+www.freepik.com###payment_method_box
+www.freepik.com###payment_method_box_title
+www.freepik.com##.banner_1.subscription_banner
+www.freepik.com##.banner_ref_overlay
+www.freepik.com##.d-flex.banner_2.subscription_banner
+www.freepik.com##.device-manager--actions > .container
+www.freepik.com##.device-manager--list > .container
+www.freepik.com##.device-manager--top > .container
+www.freepik.com##.gr-auth__connected
+www.freepik.com##.link-contributor
+www.freepik.com##.mg-top-lv1.mg-bottom-lv3.font-xl
+www.freepik.com##.price_before.banner-upgrade.banner-campaign
+www.freepik.com##.sticky.sidebar
+www.freepik.com##.userProfile.boxProfile
+www.freepik.com##div.mg-bottom-lv4.box > .pd-lv3
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(1)
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(2)
+www.freepik.com##div.mg-bottom-lv4.box:nth-of-type(4)
+www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(2)
+www.freepik.com##h6.mg-bottom-lv3.font-xl:nth-of-type(4)
+www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
+www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(1)
+www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(2)
+www.flaticon.com##.track.btn-small.btn
+www.flaticon.com###payment-method-info
+www.flaticon.com##.checkout-fieldset > label
+www.flaticon.com##.overflow-ellipsis.full-width.btn
+www.flaticon.com##div.mg-bottom-lv4.box:nth-of-type(2) > .pd-lv3
+www.flaticon.com##.current-plan.plan > .mg-none.row
+www.flaticon.com##.link-contributors.push-right > .track.mg-y-none.mg-lv2
+www.flaticon.com##.link-pricing > .track.mg-y-none.mg-lv2
+www.flaticon.com##.profile-picture.boxProfile-fields
+www.flaticon.com##.flaticon-link.user-url
+www.flaticon.com##div.profile-block
+www.flaticon.com##.container > div.mg-none.row
+www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
+www.flaticon.com##.footer__projects
+www.flaticon.com##.track.mg-y-none.mg-lv2.row--vertical-center.row.popover-button
+www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(1)
+www.flaticon.com##ul.pd-x-none.pd-lv2.user__links:nth-of-type(2)
+www.flaticon.com##.track.btn-small.btn
+www.flaticon.com###payment-method-info
+www.flaticon.com##.checkout-fieldset > label
+www.flaticon.com##.overflow-ellipsis.full-width.btn
+www.flaticon.com##div.mg-bottom-lv4.box:nth-of-type(2) > .pd-lv3
+www.flaticon.com##.current-plan.plan > .mg-none.row
+www.flaticon.com##.link-contributors.push-right > .track.mg-y-none.mg-lv2
+www.flaticon.com##.link-pricing > .track.mg-y-none.mg-lv2
+www.flaticon.com##.profile-picture.boxProfile-fields
+www.flaticon.com##.flaticon-link.user-url
+www.flaticon.com##div.profile-block
+www.flaticon.com##.container > div.mg-none.row
+www.flaticon.com##.mg-top-lv3.font-xs.footer__legal
+www.flaticon.com##.footer__projects
+
+
+
+
+
+
+
+create.vista.com###webWidget
+create.vista.com##.buttonForgotPassword-3EhHp.typography-subheading-m.kvoQnE.sc-dmlrTW.kCQmsc.sc-hHftDr
+create.vista.com##.footerWrapper-3SH7S
+create.vista.com##.form-17YkF
+create.vista.com##.formSeparator-2y42r.typography-body-l
+create.vista.com##.formTitle-1RxKh.typography-marketing-display-s
+create.vista.com##.iconXXL-2N1Rg.typography-display-m.nameContainer-2j7q6
+create.vista.com##.inputsWrapper-2uewO
+create.vista.com##.labelUploadSetting-1a-Pp
+create.vista.com##.leftSideWrapper-qj5fA
+create.vista.com##.newPassTitle-3XLGT
+create.vista.com##.passInputs-18SW8
+create.vista.com##.promocodesWrapper-1hAh4
+create.vista.com##.sidebar-2pLKS
+create.vista.com##.socialButtonsWrapper-17B1p
+create.vista.com##.submit-130_E
+create.vista.com##.subscriptionWrapper-2jSZr
+create.vista.com##.typography-body-m.bQlIvC.sc-dlfnbm.bhdLno.sc-gsTCUz
+create.vista.com##.userAvatarWrapper-1_s-3
+create.vista.com##.wrapper-2Pb9k
+create.vista.com##.inputsWrapper-2uewO
+create.vista.com##.socialButtonsWrapper-17B1p
+create.vista.com##.formSeparator-2y42r.typography-body-l
+create.vista.com##.formTitle-1RxKh.typography-marketing-display-s
+create.vista.com##.typography-body-m.bQlIvC.sc-dlfnbm.bhdLno.sc-gsTCUz
+create.vista.com##.buttonForgotPassword-3EhHp.typography-subheading-m.kvoQnE.sc-dmlrTW.kCQmsc.sc-hHftDr
+create.vista.com##.leftSideWrapper-qj5fA
+create.vista.com##.footerWrapper-3SH7S
+create.vista.com###webWidget
+create.vista.com##.userAvatarWrapper-1_s-3
+create.vista.com##.form-17YkF
+create.vista.com##.labelUploadSetting-1a-Pp
+create.vista.com##.iconXXL-2N1Rg.typography-display-m.nameContainer-2j7q6
+create.vista.com##.sidebar-2pLKS
+create.vista.com##.passInputs-18SW8
+create.vista.com##.newPassTitle-3XLGT
+create.vista.com##.submit-130_E
+create.vista.com##.subscriptionWrapper-2jSZr
+create.vista.com##.wrapper-2Pb9k
+create.vista.com##.promocodesWrapper-1hAh4
+create.vista.com##.userAvatarWrapper-3Lh6L
+create.vista.com##.listMembers-JeETS
+
+
+
+
+
+segmento-target.ru###Email
+segmento-target.ru###Password
+segmento-target.ru###newTableContainer > table:first-child > tbody:nth-child(2) > tr:first-child > td:first-child > div.tariff-function
+segmento-target.ru###newTableContainer > table:first-child > tbody:nth-child(2) > tr:last-child > td:first-child > div.tariff-function
+segmento-target.ru###newTableContainer > table:first-child > tbody:nth-child(2) > tr:nth-child(2) > td:first-child > div.tariff-function
+segmento-target.ru###newTableContainer > table:first-child > tfoot:last-child > tr.additional-block:last-child > td.addition-content:last-child
+segmento-target.ru###newTableContainer > table:first-child > tfoot:last-child > tr.additional-block:last-child > td:first-child
+segmento-target.ru###newTableContainer > table:first-child > tfoot:last-child > tr:first-child > td.std-tariff
+segmento-target.ru###newTableContainer > table:first-child > tfoot:last-child > tr:first-child > td:first-child > p.help-block.help-description
+segmento-target.ru###newTableContainer > table:first-child > thead:first-child > tr:last-child > th.rob-tariff
+segmento-target.ru##.description
+segmento-target.ru##.footer-type-1.sticky.main-footer
+segmento-target.ru##.hover-line.dropdown > .dropdown-toggle
+segmento-target.ru##.list-unstyled.list-inline.left-links.user-info-menu .btn-info.btn
+segmento-target.ru##.list-unstyled.list-inline.right-links.user-info-menu > li
+segmento-target.ru##.notranslate._bottom_c36e.label_a93f
+segmento-target.ru##.open.hover-line.dropdown > .dropdown-toggle
+segmento-target.ru##.user-profile.dropdown > .dropdown-toggle
+segmento-target.ru##[href="/Partners/Dashboard"]
+segmento-target.ru##a[href="#"]:nth-of-type(2)
+segmento-target.ru##div.login-container:first-child > div.row > div.col-sm-6 > form.form-signin.login-form.fade-in-effect.in:last-child > div.form-group:nth-child(5) > a.btn.btn-block.text-left.btn-vk-auth:last-child
+segmento-target.ru##div.login-container:first-child > div.row > div.col-sm-6 > form.form-signin.login-form.fade-in-effect.in:last-child > div.login-footer:last-child
+segmento-target.ru##div.login-container:first-child > div.row > div.col-sm-6 > form.form-signin.login-form.fade-in-effect.in:last-child > div.login-header:first-child > p:last-child
+segmento-target.ru##div.page-container:first-child > div.main-content:last-child > div.page-title:nth-child(2) > div.breadcrumb-env:last-child > ol.breadcrumb.bc-1
+segmento-target.ru##div.page-container:first-child > div.main-content:last-child > div.partners-markup-stat-container:nth-child(3) > div.row > div.col-md-12
+segmento-target.ru##div.page-container:first-child > div.main-content:last-child > div.row:nth-child(3) > div.col-md-6
+segmento-target.ru##div.page-container:first-child > div.main-content:last-child > div.row:nth-child(3) > div.col-md-6 > form:first-child
+segmento-target.ru##li.hover-line > [href="/Panel/Support"]
+segmento-target.ru##tbody > tr > td.std-tariff > .tariff-content
+segmento-target.ru##thead > tr
+
+
+
+
+
+shop.targethunter.ru##.block-bordered.block-content-full.block-content
+shop.targethunter.ru##.img-lightbox > div
+shop.targethunter.ru##.right_sidebar_content.col-sm-4 > .text-center.th-block-bg
+shop.targethunter.ru##.right_sidebar_content.col-sm-6 > .text-center.th-block-bg
+shop.targethunter.ru##.school_courses_content > .container-fluid > .row > .text-center.col-sm-12 > .btn-default.btn-sm.btn
+shop.targethunter.ru##.school_courses_content > div.th-block-bg
+shop.targethunter.ru##div.block:nth-of-type(2) > .block-content-full.block-content
+shop.targethunter.ru##div.block:nth-of-type(2) > .th-block-header
+shop.targethunter.ru##div.block:nth-of-type(3) > .block-content-full.block-content
+shop.targethunter.ru##div.col-lg-4.col-md-6.col-sm-6.col-xs-6:nth-of-type(1)
+shop.targethunter.ru##div.col-lg-4.col-md-6.col-sm-6.col-xs-6:nth-of-type(2)
+shop.targethunter.ru##div.col-sm-6
+shop.targethunter.ru##div.th-block-bg:nth-of-type(2) > .container-fluid > .row
+shop.targethunter.ru##div.th-block-bg:nth-of-type(3) > .container-fluid > .row
+targethunter.ru###vkwidget1
+targethunter.ru##.autopay_content.block-content-full.block-content
+targethunter.ru##.bg-white.dropdown-toggle.btn-image.btn-default.btn
+targethunter.ru##.bg-white.tariff-button.btn-default.btn
+targethunter.ru##.cabinet_list.block-content-full.block-content
+targethunter.ru##.col-md-12 > .block-bordered.block > .block-content-full.block-content
+targethunter.ru##.color-warning.block-content
+targethunter.ru##.dropdown-menu-right.dropdown-menu
+targethunter.ru##.integration_content.block-content-full.block-content
+targethunter.ru##.my_cabinet_list.block-content-full.block-content
+targethunter.ru##.session_content.block-content-full.block-content
+targethunter.ru##.tariff_auto_renew.block-content-full.block-content
+targethunter.ru##.text-center.block-content-full.block-content
+targethunter.ru##.th-block-bg > .row > div.col-sm-6:nth-of-type(2) > .btn-default.btn-sm.btn-block.btn
+targethunter.ru##.widget-group-vk-head
+targethunter.ru##.widget-vk2-btn
+targethunter.ru##.withdraw-content > div > .block > .block-content
+targethunter.ru##FOOTER[id="page-footer"][class="content-mini content-mini-full font-s12 bg-gray-lighter clearfix"]
+targethunter.ru##div.block-bordered.block:nth-of-type(3) > .block-content-full.block-content
+targethunter.ru##div.col-lg-6.col-sm-12 > .text-center.block-link-hover3.block-bordered.block > .border-b.bg-gray-lighter.block-content-full.block-content
+targethunter.ru##div.col-lg-6.col-sm-6:nth-of-type(1) > div.block-bordered.block:nth-of-type(1) > .block-content-full.block-content
+targethunter.ru##div.col-lg-6.col-sm-6:nth-of-type(2) > div.block-bordered.block:nth-of-type(2) > .block-content-full.block-content
+targethunter.ru##div.col-sm-6 > .th-border.btn-default.btn-sm.btn-block.btn
+targethunter.ru##div.flex.socials:nth-of-type(5)
+targethunter.ru##div.flex.socials:nth-of-type(6)
+targethunter.ru##div.row:nth-of-type(1) > .col-md-6 > .block-bordered.block > .block-content-full.block-content
+targethunter.ru##li.hidden-xs:nth-of-type(1) > .bg-white.btn-default.btn
+
+
+
+
+
+mpstats.io##.be-footer
+mpstats.io##.be-user-nav.float-right.navbar-nav.nav
+mpstats.io##.col-xl-12 > .card > .card-body
+mpstats.io##.copy-to-clip.btn-warning.btn-xl.btn
+mpstats.io##.float-right.btn-warning.btn-xs.btn
+mpstats.io##.primary-top-bottom.secondary-right.primary-bottom.trigger-type.cursor-pointer.top-z-index.trigger
+mpstats.io##div.col-md-4.col-sm-6:nth-of-type(1) > .self-align-center.card-border-color-primary.card-border-color.card
+
+
+
+
+
+artgrid.io##.other-plan
+artgrid.io##.social-login
+artgrid.io##.forgot-pass
+artgrid.io##input[type="password"]
+artgrid.io##.join-container
+artgrid.io##.ng-star-inserted.mat-button.sm.art-main-btn-t1.mat-typography
+artgrid.io##.tooglePassword.fa-eye.fa.fas
+artgrid.io##.ng-star-inserted.ng-invalid.ng-pristine.ng-untouched.mat-form-field-hide-placeholder.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-11.mat-form-field
+artgrid.io##.my-account-container
+artgrid.io##button.mat-menu-item:nth-of-type(1)
+artgrid.io##.ng-star-inserted.art-my-refer
+! 2023-11-17 https://artgrid.io
+artgrid.io##.mat-form-field-autofilled.ng-valid.ng-dirty.mat-form-field-should-float.ng-star-inserted.ng-untouched.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-8.mat-form-field > .mat-form-field-wrapper
+artgrid.io##.mat-form-field-autofilled.ng-valid.ng-dirty.mat-form-field-should-float.ng-star-inserted.ng-untouched.mat-form-field-has-label.mat-form-field-can-float.mat-form-field-appearance-outline.mat-form-field-type-mat-input.mat-primary.ng-tns-c34-8.mat-form-field
+
+
+
+
+
+artlist.io###forgot-password-btn
+artlist.io##.appearance-none.leading-5.py-4.text-gray-100.shadow-none.focus\:ring-0.focus\:outline-none.outline-none.bg-transparent.text-base.w-full.grow.flex
+artlist.io##.art-wrapper-dropdown.art-hide-on-mobile
+artlist.io##.border-gray-100.border-t-transparent.py-4.rounded
+artlist.io##.bravo.hastext.input-field
+artlist.io##.footer-sign-up
+artlist.io##.go-to-refer
+artlist.io##.headsign
+artlist.io##input[type="password"]
+artlist.io##.inner-text.auth
+artlist.io##.md\:items-center.md\:justify-between.md\:flex.text-gray-200.text-sm.mt-3
+artlist.io##.md\:text-base.md\:items-center.md\:justify-between.md\:flex.rounded-lg.bg-gray-600.text-gray-200.text-sm.p-3
+artlist.io##.or
+artlist.io##.valid.loginemail
+artlist.io##.xl\:inline.lg\:whitespace-nowrap.lg\:text-left.lg\:flex-col.lg\:flex.text-gray-100.text-center.text-base
+artlist.io##div.hastext.input-field > .checkit.password
+artlist.io##div.hastext.input-field:nth-of-type(2)
+artlist.io##div:nth-of-type(4) > .w-full.relative > .border-gray-100.py-4.rounded
+! 2023-11-17 https://artlist.io
+artlist.io##.leading-4.text-sm.px-8.py-2.hover\:bg-white.hover\:text-primary.border-white.text-white.disabled\:bg-transparent.disabled\:text-gray-300.bg-transparent.border.transition-smooth.disabled\:border-gray-300.disabled\:bg-gray-300.disabled\:text-primary.disabled\:cursor-not-allowed.rounded-full.font-bold.items-center.justify-center.flex
+artlist.io##.fa-1x.fa-eye.svg-inline--fa
+artlist.io##div.w-full.mb-8:nth-of-type(2) > .w-full.relative > .border-success.border-t-transparent.px-4\.5.sm\:py-4.py-3.rounded.border.items-stretch.w-full.flex
+
+
+
+
+
+www.epidemicsound.com##.src-mainapp-___MessageContainer__messageContainer___DciBh
+! Бургер
+www.epidemicsound.com##.css-utmdtn
+! Account/Subscriptions
+www.epidemicsound.com##.src-mainapp-subscriptions-components-___SubscriptionActions__subscriptionActionContainer___E8GNr
+www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div:nth-of-type(1) > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
+www.epidemicsound.com##.css-1ygdlcp.src-mainapp-account-___AccountPage__content___ccotP > div > div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR
+www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > div:nth-of-type(2) > .css-26f274
+www.epidemicsound.com##div.src-mainapp-subscriptions-pages-___PlanInfoBox__statusItem___rFWwY:nth-of-type(3) > .css-16uidja.src-mainapp-subscriptions-pages-___PlanInfoBox__text___cA8ev
+! Account/Profile
+www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(1)
+www.epidemicsound.com##div.src-mainapp-account-components-___AccountPageSection__accountPageSection___9bLQR:nth-of-type(2)
+! Ссылка на аккаунт в футере
+www.epidemicsound.com##div:nth-of-type(1) > .src-mainapp-components-___Footer__sectionLinkList___BUESa > li:nth-of-type(4) > .src-mainapp-components-___Footer__sectionLink___JgmrM
+! Авторизация
+login.epidemicsound.com##[href="https://www.epidemicsound.com/login-partner"]
+login.epidemicsound.com##[href^="/auth/realms/accounts/login-actions/reset-credentials"]
+login.epidemicsound.com##div.form-row:nth-of-type(2) > .form-group
+login.epidemicsound.com##div.form-row:nth-of-type(1) > .form-group
+login.epidemicsound.com##div.form-row:nth-of-type(3) > .form-group
+! 2023-11-17 https://login.epidemicsound.com
+login.epidemicsound.com###kc-social-providers > ul
+
+
+
+
+
+www.renderforest.com##.cEvpVc.IllustrationWrapper--mkkba7
+www.renderforest.com##.dDguOE.FooterLinkWrapper--d1f6lp
+www.renderforest.com##.dZkzFv.SocialButtonsWrapper--1rs2uob
+www.renderforest.com##.hGuqhT.ForgotPassTextBtn--dn8yl5
+www.renderforest.com##.hsAVPU.TermsOfServiceTextWrapper--1pmfdua
+www.renderforest.com##.jUtFft.PasswordEyeImg--1fhkero
+www.renderforest.com##.leiUvV.DividerLineWrapper--vwqs45
+www.renderforest.com##A[class="nav-item-link nav-mobile-item active"]
+www.renderforest.com##A[class="nav-item-link nav-mobile-item"]
+www.renderforest.com##A[class="user-menu__link"][href="/ru/logout"]
+www.renderforest.com##A[class="user-menu__link-icon account"]
+www.renderforest.com##A[class="user-menu__link-icon star"]
+www.renderforest.com##DIV[class="styled__GeneralContainer-sc-1ov8tbu-1 lhXqLi"]
+www.renderforest.com##DIV[class="styled__InvoiceContainer-jot44d-0 crsrEP"]
+www.renderforest.com##DIV[class="styled__NotificationContainer-c7mhk-0 dCwTaY"]
+www.renderforest.com##DIV[class="styled__SubscriptionContainer-er9bwa-0 fIxHwK"]
+www.renderforest.com##DIV[class="styled__TabsContainer-sc-2y9k8x-0 cLanDq"]
+www.renderforest.com##DIV[class="styled__VideoPreferencesContainer-sc-12qtce6-0 fOcjcV"]
+www.renderforest.com##SECTION[class="choose-plan"]
+www.renderforest.com##SECTION[class="footer-subscription"]
+www.renderforest.com##SECTION[class="plans-and-features"]
+www.renderforest.com##SPAN[id="header-user-name"][class="name-text"]
+www.renderforest.com##div.xtllt.InputWrapper--11aj591:nth-of-type(1) > .eGvBZe.InputContent--1o9vo3j
+www.renderforest.com##div.xtllt.InputWrapper--11aj591:nth-of-type(2) > .eGvBZe.InputContent--1o9vo3j
+www.renderforest.com##.rf-ru.rf-social-login
+www.renderforest.com##.rf-email.rf-input
+www.renderforest.com##.rf-password.rf-input
+www.renderforest.com##.toggle-pass-visibility
+www.renderforest.com##.active.rf-sign-container > div.rf-links-wrap
+www.renderforest.com##.rf-forgot
+www.renderforest.com###cookie_message
+! 2023-11-17 https://www.renderforest.com
+www.renderforest.com##.announcement-badge__wrapper
+www.renderforest.com##.fVqwnw.PasswordEyeImg--rrf3gj
+www.renderforest.com##div.xGvIK.InputWrapper--x5e0w8:nth-of-type(2)
+www.renderforest.com##.jRhLdb.SocialButtonsWrapper--1558dpk
+www.renderforest.com##.evVmhg.styled__ChangePasswordButtonWrapper-sc-w9uk5f-0
+www.renderforest.com##.eQJDjz.styled__DeleteAccountButtonWrapper-sc-pmd6wu-0
+www.renderforest.com##.jBXCZi.styled__InvoiceContainer-sc-jot44d-0
+www.renderforest.com##.dnndTd.styled__SubscriptionContainer-sc-er9bwa-0
+
+
+
+
+
+telemetr.me##.pr-0.kt-header__topbar
+! Чат снизу
+telemetr.me##.trigger-font-size.trigger-classic.trigger-background
+! Поддержка
+telemetr.me##a.kt-link.kt-footer__menu-link:nth-of-type(1)
+! Профиль
+telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(1) > form:nth-of-type(1) > .form-group
+telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(2) > .m-form__group.form-group
+telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(3) > .m-form__group.form-group
+telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(4) > .m-form__group.form-group
+telemetr.me##form.m-form--label-align-right.m-form:nth-of-type(5) > .m-form__group.form-group
+telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(2) > form
+telemetr.me##div.col-xl-6.col-lg-6.col-md-6:nth-of-type(2) > label
+telemetr.me###remove_account_form
+telemetr.me###m_user_profile_tab_2 > form > .btn-warning.btn
+
+
+
+
+
+! Вход через гугл
+picsart.com##[src^="https://accounts.google.com/gsi/iframe/select?client_id=1076413845392-ukovna63hmpicftucqg05oekuaq22p39.apps.googleusercontent.com&ux_mode=popup&ui_mode=card&as=wWchDOGksUaN7W0U0%2F4U0Q&is_itp=true&channel_id=76ccabf3ded2210d6c64a3508bd1197264b8f73b2b8482da"]
+picsart.com###credential_picker_container
+! Поддержка
+picsart.com##.help-widget-root-d0-0-2-287.help-widget-root-0-2-284
+picsart.com##.help-widget-root-d0-0-2-29.help-widget-root-0-2-26
+! Настройки аккаунта
+picsart.com##.account-root-0-2-70
+picsart.com##.billing-and-subscription-wrapper-0-2-166
+! Авторизация
+picsart.com##.options-form-root-0-2-473
+picsart.com##.picsart-legal-text-root-0-2-499.text-root-d85-0-2-643.text-root-0-2-462 > p
+picsart.com##.options-form-divider-0-2-461
+picsart.com##.insert-password-form-formContent-0-2-553
+! Про оплату
+picsart.com##.payment-methods-container-0-2-304
+picsart.com##.payment-methods-container
+picsart.com##.settings-invoices-settingsInvoices-0-2-324
+picsart.com##.billing-and-subscription-wrapper-0-2-174 > div > div
+! 2023-11-17 https://picsart.com
+picsart.com##.default.vertical-align-content.otFloatingRoundedIcon
+picsart.com##.insert-password-form-formContent-0-2-1087
+picsart.com##.button-interactive-d219-0-2-1375.button-interactive-0-2-44.button-default-d218-0-2-1374.button-default-0-2-43.button-root-d244-0-2-1379.button-root-0-2-54
+picsart.com##.account-accountForm-0-2-97
+picsart.com##.delete-account-buttonContainer-0-2-149
+picsart.com##.delete-account-text-0-2-146
+picsart.com##.settings-about-field-root-0-2-138
+picsart.com##.user-avatar-uploadContainer-0-2-104
+picsart.com##.pa-uiLib-button-responsive-0-2-145.pa-uiLib-button-primary-0-2-143.pa-uiLib-button-root-0-2-142.account-disabledButton-0-2-101.account-saveChanges-0-2-100
+picsart.com##.plan-details-container-0-2-483
+picsart.com##.payment-methods-container-0-2-498
+picsart.com##.settings-invoices-settingsInvoices-0-2-522
+picsart.com##.billing-and-subscription-wrapper-0-2-178 > div > div
+picsart.com##[type="password"]
+picsart.com##[placeholder="Пароль"]
+
+
+
+
+
+! Start free now
+motionarray.com##.user-links > .cta
+! Вкладки в бургере
+motionarray.com##.user-dropdown > div:nth-of-type(2)
+! Суппорт
+motionarray.com##.efr23pf0.intercom-1txmsu1.intercom-launcher-frame
+motionarray.com##.intercom-lightweight-app-launcher-icon-self-serve.intercom-lightweight-app-launcher-icon > svg
+motionarray.com##.intercom-launcher.intercom-lightweight-app-launcher
+! Кнопки слева (раздел аккаунт)
+motionarray.com##[href="/account/details/"]
+motionarray.com##[href="/account/subscription/"]
+motionarray.com##[href="/account/invoices/"]
+motionarray.com##[href="/account/billing/"]
+motionarray.com##[href="/pricing/teams/"]
+! Старый пароль в разделе account/details
+motionarray.com##li.form__item--left.form__item--side-by-side.form__item:nth-of-type(1)
+! Авторизация
+motionarray.com##.login-container.bg-white.mx-auto.sm\:p-16.p-5 > .justify-between.flex
+motionarray.com##.or.z-10.text-\[\#828282\].text-center.text-sm.sm\:mt-8.mt-5.relative
+motionarray.com##.forgot-password.underline
+motionarray.com##.lg\:px-12.sm\:px-8.al-btn.facebook-btn.social-btn.text-white.mr-2.px-0
+motionarray.com##.lg\:px-12.sm\:px-8.sm\:mr-4.al-btn.google-btn.social-btn.text-gray-800.font-bold.mr-2.ml-2.px-0
+motionarray.com##.login-container.sm\:pb-12.sm\:px-12.overflow-y-auto.pt-10.px-6.h-full.w-full > .sm\:mt-8.or.text-center.text-sm.mt-5.relative
+! 2023-11-17 https://motionarray.com
+motionarray.com##div.mt-8 > .relative > .value.input-field
+||assets.motionarray.com/home-banner.*$image
+motionarray.com##div.mt-8 > .relative > .-translate-y-1\/2.top-1\/2.fa-check-circle.fas.floating-check
+
+
+
+
+
+! 2023-11-17 https://ru.tradingview.com
+ru.tradingview.com##.i-active.settings-profile.tv-feed__page
+ru.tradingview.com##.i-active.tv-profile-billing.billing.tv-feed__page
+ru.tradingview.com##.i-active.security.tv-feed__page
+www.tradingview.com##.i-active.settings-profile.tv-feed__page
+www.tradingview.com##.i-active.tv-profile-billing.billing.tv-feed__page
+www.tradingview.com##.i-active.security.tv-feed__page
+ru.tradingview.com##div.container-mUwdHoDf:nth-of-type(2)
+ru.tradingview.com###id_password
+ru.tradingview.com##input[type="password"]
+www.tradingview.com##div.container-mUwdHoDf:nth-of-type(2)
+www.tradingview.com###id_password
+www.tradingview.com##input[type="password"]
+
+
+
+
+
+! Keysso не выразается корректно
+
+
+
+
+
+! 2023-11-17 https://www.grammarly.com
+www.grammarly.com##.social-module_socialButtonsContainer__TeFnr
+www.grammarly.com##input[type="password"]
+www.grammarly.com##.password-module_passwordSuffixContainer__f-hWn
+! 2023-11-17 https://account.grammarly.com
+account.grammarly.com##div > div > div > ._item_1k5q1_47 > ._wrapper_1c8ab_13 > .f1lqnxri._kazaButton_eeij4_3._kazaFormat_eeij4_20.fqlvlsm > ._updateLabel_1k5q1_52
+account.grammarly.com###main > div > div > ._item_1k5q1_47 > ._wrapper_1c8ab_13 > .f1lqnxri._kazaButton_eeij4_3._kazaFormat_eeij4_20.fqlvlsm > ._updateLabel_1k5q1_52
+account.grammarly.com##.f1lqnxri._kazaDangerContrast_eeij4_25._kazaFormat_eeij4_20._kazaButton_eeij4_3._danger_eeij4_83.fqlvlsm
+
+
+
+
+
+! 2023-11-17 https://auth0.openai.com
+auth0.openai.com##.ce460850a.c01d45ffc
+auth0.openai.com##.c1b0c47a8.cd2e05f8d
+auth0.openai.com##.cb7ee17b4.ca8eca547.cc48745dc
+auth0.openai.com##._button-icon.c3f6e0ede.ulp-button-icon.cec7de2e9
+auth0.openai.com##[type="password"]
+! 2023-11-17 https://chat.openai.com BUTTON: MY PLAN
+chat.openai.com##nav[role="none"] > a:nth-of-type(1)
+! 2023-11-17 https://chat.openai.com
+chat.openai.com##button.hover\:bg-\[\#0000FF\].text-\[\#fff\].bg-\[\#3C46FF\].font-medium.text-base.text-center.rounded-md.justify-center.items-center.h-12.flex.relative:nth-of-type(2)
+
+
+
+
+
+! 2023-07-10 https://discord.com
+! Уведомление сверху о телефоне
+discord.com##.colorDefault-1e8tQv.notice-2HEN-u
+! Панель слева
+discord.com##.tutorialContainer-2jwoiB > .listItem-3SmSlK
+discord.com##.tree-3agP2X
+discord.com##.guilds-2JjMmN.wrapper-1_HaEi
+! Панель снизу с аккаунтом настройками
+discord.com##.container-YkUktl
+! Панель с кнопками сверху
+discord.com##.themed-Hp1KC_.container-ZMc96U.title-31SJ6t
+! Хэдер в чатах
+discord.com##.dropdownButton-1-5aBs.button-2BMPJJ
+discord.com##.header-3OsQeK
+discord.com##section[aria-label="Пользовательская область"]
+discord.com##div[aria-label="Настроить канал"]
+discord.com##div[aria-label="Создание приглашения"]
+discord.com##button[aria-label="Создать канал"]
+discord.com###channel-context
+
+
+
+
+
+! 2023-11-18 https://app.leonardo.ai
+app.leonardo.ai##.css-13rbjse
+app.leonardo.ai##.css-1f0xmx1
+app.leonardo.ai##.css-2f1569
+app.leonardo.ai##.css-3vo326
+app.leonardo.ai##.css-v6c1u4
+app.leonardo.ai##input[type="password"]
+app.leonardo.ai###password-label
+app.leonardo.ai##.css-1o23m2h
+app.leonardo.ai##.css-15zvgqv
+
+
+
+
+
+! 2023-11-17 https://www.storyblocks.com
+www.storyblocks.com##div.manageAccount-subsection:nth-of-type(1)
+www.storyblocks.com##div.manageAccount-subsection:nth-of-type(2)
+www.storyblocks.com##.manageSubscriptions-subsection
+www.storyblocks.com###nav-cta
+www.storyblocks.com##.emailSignUpForm-showPassword
+www.storyblocks.com##label[for="show-password"]
+www.storyblocks.com##input[type="password"]
+
+
+
+
+
+! 2023-11-17 https://www.pipiads.com
+www.pipiads.com##input[type="password"]
+www.pipiads.com##.is-no-asterisk.is-required.form-item-password.el-form-item
+www.pipiads.com##.user-center
+www.pipiads.com##.page-order
+
+
+
+
+
+
+! 2024-01-25
+targethunter.ru##input[type="password"]
+adheart.me##DIV[class="sc-61dba7e5-4 kmlmJD ml-auto"]
+
+
